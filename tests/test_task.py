@@ -2,9 +2,9 @@ from selenium import webdriver
 import pytest
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
-from locators.locators import LoginPageLocators as L, KeyPressesLocators as K, DropdownListLocators as DL, \
+from test_task_1.locators.locators import LoginPageLocators as L, KeyPressesLocators as K, DropdownListLocators as DL, \
     DownloadLocators as D
-from test_data.data import data, expected_options, expected_text
+from test_task_1.test_data.data import data, expected_options, expected_text
 import requests
 
 
