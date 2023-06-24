@@ -1,11 +1,14 @@
-You can find test cases here 👉🏼 https://docs.google.com/spreadsheets/d/1QdMLdQOeLVSg_q1wsKfiSIz5ViJ75Q6UlloczVfZ1Hs/edit?usp=sharing
+## Hello! This is my first test task for a QA automation engineer role
 
-How to work with this repository:
+### You can find test cases [here](https://docs.google.com/spreadsheets/d/1QdMLdQOeLVSg_q1wsKfiSIz5ViJ75Q6UlloczVfZ1Hs/edit?usp=sharing)
 
-Clone repository to your machine.
 
-Navigate to the root folder of the project.
+### How check my task:
 
-Run command pip install -r requirements.txt
+- Clone repository to your machine.
 
-After, execute pytest -s -v to run tests.
+- Navigate to the root folder of the project.
+
+- Run command __pip install -r requirements.txt__
+
+- After, execute __pytest -s -v__ to run tests.
