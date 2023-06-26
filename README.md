@@ -3,7 +3,7 @@
 ### You can find test cases [here](https://docs.google.com/spreadsheets/d/1QdMLdQOeLVSg_q1wsKfiSIz5ViJ75Q6UlloczVfZ1Hs/edit?usp=sharing)
 
 
-### How check my task:
+### How to check my task:
 
 - Clone repository to your machine.
 
